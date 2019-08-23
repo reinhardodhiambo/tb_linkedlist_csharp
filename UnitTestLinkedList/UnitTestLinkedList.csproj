@@ -13,9 +13,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="LinkedListHelpers">
-      <HintPath>C:\Users\reinh\source\repos\LinkedListHelpers\bin\Debug\netstandard2.0\LinkedListHelpers.dll</HintPath>
-    </Reference>
     <Reference Include="LinkedListsHelpers">
       <HintPath>..\LinkedListsHelpers\bin\Debug\netcoreapp2.2\LinkedListsHelpers.dll</HintPath>
     </Reference>

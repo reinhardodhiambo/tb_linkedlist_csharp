@@ -25,9 +25,7 @@ D:\New_csharp\UnitTestLinkedList\bin\Debug\netcoreapp2.2\UnitTestLinkedList.runt
 D:\New_csharp\UnitTestLinkedList\bin\Debug\netcoreapp2.2\UnitTestLinkedList.runtimeconfig.dev.json
 D:\New_csharp\UnitTestLinkedList\bin\Debug\netcoreapp2.2\UnitTestLinkedList.dll
 D:\New_csharp\UnitTestLinkedList\bin\Debug\netcoreapp2.2\UnitTestLinkedList.pdb
-D:\New_csharp\UnitTestLinkedList\bin\Debug\netcoreapp2.2\LinkedListHelpers.dll
 D:\New_csharp\UnitTestLinkedList\bin\Debug\netcoreapp2.2\LinkedListsHelpers.dll
-D:\New_csharp\UnitTestLinkedList\bin\Debug\netcoreapp2.2\LinkedListHelpers.pdb
 D:\New_csharp\UnitTestLinkedList\bin\Debug\netcoreapp2.2\LinkedListsHelpers.pdb
 D:\New_csharp\UnitTestLinkedList\obj\Debug\netcoreapp2.2\UnitTestLinkedList.csprojAssemblyReference.cache
 D:\New_csharp\UnitTestLinkedList\obj\Debug\netcoreapp2.2\UnitTestLinkedList.csproj.CoreCompileInputs.cache
